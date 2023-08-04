@@ -1,6 +1,6 @@
 # Local whisper api implementation
 
-This is the (server implementation of the telegram whisper bot)[https://github.com/TheFrancho/telegram-whisper-bot]
+This is the [server implementation of the telegram whisper bot](https://github.com/TheFrancho/telegram-whisper-bot)
 
 This implementation uses FastAPI to ingest mp3 files to the Whisper model and return a transcription of the audio.
 
