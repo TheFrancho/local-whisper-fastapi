@@ -47,4 +47,4 @@ And the server will be ready to receive requests
 
 ## Usage
 
-Just look at the requests.py file to know how to use the endpoint
+Just look at the [requests.py](https://github.com/TheFrancho/local-whisper-fastapi/blob/main/request.py) file to know how to use the endpoint
